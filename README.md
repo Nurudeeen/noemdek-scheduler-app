@@ -16,6 +16,21 @@ a [Sails v1](https://sailsjs.com) application
 
 This app was originally generated on Wed Jul 05 2023 18:55:41 GMT+0100 (West Africa Standard Time) using Sails v1.5.3.
 
+Admin can do the following:
+
+Add vehicles and drivers
+Create schedule
+View schedules based on vehicle or driver category and based on date ranges
+View individual schedules
+Edit schedule
+Delete schedule
+This app was developed using Sails JS and Node, Mongodb is used to store data accessed by Sails Waterline ORM.
+
+To run the app, install sails js and run the following command in the terminal:
+
+npm install
+npm run dev or sails lift
+
 <!-- Internally, Sails used [`sails-generate@2.0.7`](https://github.com/balderdashy/sails-generate/tree/v2.0.7/lib/core-generators/new). -->
 
 
