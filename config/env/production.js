@@ -271,6 +271,9 @@ module.exports = {
     //   'https://staging.example.com',
     // ],
 
+    onlyAllowOrigins: [
+      'https://wild-pear-camel-wear.cyclic.app'
+    ],
 
     /***************************************************************************
     *                                                                          *
