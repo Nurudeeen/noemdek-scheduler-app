@@ -26,7 +26,7 @@ module.exports.routes = {
   'GET /view-schedule': 'view-schedule',
   'GET /fetch-schedules': 'fetch-schedules',
   'DELETE /delete-schedule': 'delete-schedule',
-  'GET /': 'welcome/index'
+  'GET /': 'index'
 
 
   /***************************************************************************
