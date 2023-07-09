@@ -272,7 +272,7 @@ module.exports = {
     // ],
 
     onlyAllowOrigins: [
-      'https://wild-pear-camel-wear.cyclic.app'
+      'https://app.cyclic.sh/'
     ],
 
     /***************************************************************************
@@ -359,7 +359,7 @@ module.exports = {
   * this, just try deploying without setting it and see if it works.)       *
   *                                                                         *
   ***************************************************************************/
-   port: 3000,
+   //port: 80,
 
 
 
