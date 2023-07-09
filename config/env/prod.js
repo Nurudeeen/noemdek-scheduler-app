@@ -272,7 +272,7 @@ module.exports = {
     // ],
 
     onlyAllowOrigins: [
-      'https://app.cyclic.sh/'
+      'https://app.cyclic.sh'
     ],
 
     /***************************************************************************
